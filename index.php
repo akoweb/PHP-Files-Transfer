@@ -21,8 +21,8 @@ a, a:link, a:visited{ color:#009; text-decoration:underline}
 
 <form method="post" action="" enctype="multipart/form-data">
 
-<input type="text" dir="ltr" placeholder="file url : http://www.ako.ir" required="required" autofocus="autofocus" name="fileurl" size="150" /><br/>
-<input type="text" dir="ltr" placeholder="file name : mrm.zip" required="required" autofocus="autofocus" name="filename" size="150" /><br/>
+<input type="text" dir="ltr" placeholder="file url : http://www.ako.ir/mrm.zip" required="required" autofocus="autofocus" name="fileurl" size="150" /><br/>
+<input type="text" dir="ltr" placeholder="file name : new_name_mrm.zip" required="required" autofocus="autofocus" name="filename" size="150" /><br/>
 <input type="submit" value="submit" />
 </form>
 
